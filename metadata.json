@@ -1,0 +1,5 @@
+{
+  "name": "Control Tower Admin",
+  "description": "A high-performance mission control for SaaS operations, tracking user lifecycles, listing health, and system alerts.",
+  "requestFramePermissions": []
+}
